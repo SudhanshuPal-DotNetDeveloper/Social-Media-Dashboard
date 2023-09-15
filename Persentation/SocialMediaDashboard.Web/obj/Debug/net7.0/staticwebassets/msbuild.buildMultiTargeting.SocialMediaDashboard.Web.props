@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SocialMediaDashboard.Web.props" />
+</Project>
